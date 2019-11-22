@@ -3,6 +3,6 @@ sleep 5s
 git init
 git add .
 git commit -m "Updated Coordinates file"
-git remote add Planet_Data - Sheet1.csv
+git remote add Object_Data - Sheet1.csv
 git push origin master
 
