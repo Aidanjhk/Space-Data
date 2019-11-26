@@ -1,4 +1,4 @@
-start chrome https://docs.google.com/spreadsheets/d/1MKrrC4d5_AtrzAB12u8pg2zIIBK81unkl7jzqkiXW6E/export?format=csv
+start chrome https://docs.google.com/spreadsheets/d/1KGNQTs7E8qLLWi2FCfdbDisnIiwao2IKRWMIksAI2p0/export?format=csv
 sleep 5s
 git init
 git add .
