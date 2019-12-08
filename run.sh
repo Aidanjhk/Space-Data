@@ -6,4 +6,4 @@ git commit -m "Updated Coordinates file"
 git remote add Object_Data - Sheet1.csv
 git push origin master
 
-./Space-Data-Gather.exe
+./Space-Data-Gather.exe # rename file to the date then .csv
